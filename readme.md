@@ -147,7 +147,9 @@ Name (Link to Carreer Page) | HQ Location          | Languages
 ----------------------------|----------------------|----------------------------
 [47 Degrees]                | Spain                | Scala
 [Anduril]                   | USA, California      | Rust, Haskell, Nix
+[Astral]                    | USA                  | Rust, Python
 [Climatiq]                  | USA                  | Rust
+[Determinate Systems]       | USA                  | Rust, Nix
 [Dfinity]                   | Switzerland, Zürich  | Rust, Haskell, Nix
 [EPFL]                      | Switzerland          | Scala
 [Fly.io]                    | USA                  | Rust
@@ -158,6 +160,8 @@ Name (Link to Carreer Page) | HQ Location          | Languages
 [Lunatech]                  | Netherlands          | Scala
 [Mlabs]                     | UK                   | Rust, Haskell, Nix
 [Mozilla]                   | USA                  | Rust
+[Numtide]                   | Switzerland          | Rust, Nix
+[Rerun]                     | USA                  | Rust
 [Scala Center]              | USA                  | Scala
 [Serokell]                  | USA                  | Rust, Haskell, Nix
 [Spotify]                   | Sweden               | Scala
@@ -165,6 +169,7 @@ Name (Link to Carreer Page) | HQ Location          | Languages
 [Tarides]                   | USA                  | OCaml
 [Tweag]                     | USA                  | Rust, Haskell, Nix
 [Tweede Golf]               | Netherlands          | Rust
+[Valora]                    | Switzerland          | F#
 [VirtusLab]                 | Poland               | Scala
 
 
@@ -202,11 +207,13 @@ Newsletters that include job postings:
 [Anduril]: https://www.anduril.com/open-roles/
 [Arista]: https://www.arista.com/en/careers
 [Artificial]: https://artificial.io/careers/
+[Astral]: https://astral.sh/about
 [ByteAlly]: https://byteally.zohorecruit.com/careers
 [CarbonCloud]: https://careers.carboncloud.com/#jobs
 [Channable]: https://jobs.channable.com/
 [CircuitHub]: https://careers.circuithub.com/
 [Climatiq]: https://www.climatiq.io/about#jobs
+[Determinate Systems]: https://determinate.systems/careers
 [Dfinity]: https://dfinity.org/about/#jobs
 [Digitalasset]: https://www.digitalasset.com/careers
 [EPFL]: https://www.epfl.ch/about/working/
@@ -224,9 +231,11 @@ Newsletters that include job postings:
 [Mlabs]: https://apply.workable.com/mlabs/
 [Mozilla]: https://www.mozilla.org/en-US/careers/listings/
 [Nectry]: https://nectry.com/
+[Numtide]: https://numtide.com
 [Obsidian Systems]: https://obsidian.systems/jobs
 [Oxford Abstracts]: https://oxfordabstracts.com/company/careers/
 [Platonic Systems]: https://www.linkedin.com/company/platonic-systems/jobs/
+[Rerun]: https://careers.rerun.io/
 [Scala Center]: https://www.scala-lang.org/jobs/
 [Scarf]: https://about.scarf.sh/careers
 [Serokell]: https://serokell.io/jobs
@@ -238,5 +247,6 @@ Newsletters that include job postings:
 [Tweede Golf]: https://tweedegolf.nl/en/vacancies
 [Typeable]: https://typeable.io/careers
 [Unison]: https://www.unison-lang.org/jobs/
+[Valora]: https://valora.digital
 [VirtusLab]: https://virtuslab.com/careers/
 [Well-Typed]: https://well-typed.com/blog/tags/jobs/
