@@ -36,10 +36,12 @@ This is basically a merger of the following lists:
 - [github.com/jah2488/elm-companies][elm-companies]
 - [github.com/erkmos/haskell-companies][haskell-companies]
 - [github.com/ajnsit/purescript-companies][purescript-companies]
+- [github.com/Airsequel/nix-companies][nix-companies]
 
 [elm-companies]: https://github.com/jah2488/elm-companies
 [haskell-companies]: https://github.com/erkmos/haskell-companies
 [purescript-companies]: https://github.com/ajnsit/purescript-companies
+[nix-companies]: https://github.com/Airsequel/nix-companies
 
 Following programming languages should be included.
 Let me know if there are any companies hiring for these languages.
@@ -69,18 +71,25 @@ Name (Link to Career Page) | HQ Location   | Languages
 [Digitalasset]      | USA, New York        | Haskell
 [Feeld]             | UK                   | Haskell
 [FPComplete]        | USA                  | Haskell, Rust, Nix
+[Galois]            | USA                  | Haskell, Rust
 [Generation Lambda] | Estonia, Tallinn     | Haskell
 [Hasura]            | India, Bangalore     | Haskell, Rust
+[Hercules CI]       | Netherlands          | Nix, Haskell
 [Heilmann Software] | Germany              | Haskell, Nix
+[IO Global]         | USA, Wyoming         | Haskell, Rust, Nix
 [Juspay]            | India                | Haskell, Purescript
 [Mercury Media]     | Germany              | Elm
 [Mlabs]             | UK                   | Haskell, Rust, Nix
 [Nectry]            | USA                  | Ur
+[Nix.How]           | USA                  | Nix
 [Obsidian Systems]  | USA, New York        | Haskell, Nix
 [Oxford Abstracts]  | UK                   | Haskell
 [Platonic Systems]  | USA                  | Haskell, Elm, PureScript, Nix
+[Relex]             | Finland, Helsinki    | Haskell, Elixir, Scala
+[Replit]            | USA, California      | Nix
 [Scarf]             | USA                  | Haskell, Nix
 [Serokell]          | USA                  | Haskell, Rust, Nix
+[Stack Builders]    | USA                  | Haskell, Ruby, Nix
 [TextQL]            | USA                  | Haskell, Nix
 [Tweag]             | USA                  | Haskell, Rust, Nix
 [Typeable]          | USA                  | Haskell, Nix
@@ -161,7 +170,9 @@ Name (Link to Carreer Page) | HQ Location          | Languages
 [Mlabs]                     | UK                   | Rust, Haskell, Nix
 [Mozilla]                   | USA                  | Rust
 [Numtide]                   | Switzerland          | Rust, Nix
+[Quadratic]                 | USA, CO, Boulder     | Rust
 [Rerun]                     | USA                  | Rust
+[Routine]                   | Paris                | Ocaml
 [Scala Center]              | USA                  | Scala
 [Serokell]                  | USA                  | Rust, Haskell, Nix
 [Spotify]                   | Sweden               | Scala
@@ -220,9 +231,12 @@ Newsletters that include job postings:
 [Feeld]: https://apply.workable.com/feeldco/
 [Fly.io]: https://fly.io/jobs/
 [FPComplete]: https://www.fpcomplete.com/jobs/
+[Galois]: https://galois.com/careers/
 [Generation Lambda]: https://www.linkedin.com/company/genlambda/jobs/
 [Hasura]: https://hasura.io/careers/?departmentName=Engineering
 [Heilmann Software]: https://www.heilmannsoftware.com/de/jobs/
+[Hercules CI]: https://hercules-ci.com/
+[IO Global]: https://apply.workable.com/io-global/
 [Jane Street]: https://www.janestreet.com/join-jane-street/open-roles/?type=experienced-candidates&location=all-locations&department=technology
 [Juspay]: https://juspay.in/careers
 [Lightbend]: https://www.lightbend.com/company/careers
@@ -231,18 +245,24 @@ Newsletters that include job postings:
 [Mlabs]: https://apply.workable.com/mlabs/
 [Mozilla]: https://www.mozilla.org/en-US/careers/listings/
 [Nectry]: https://nectry.com/
+[Nix.How]: https://nix.how/
 [Numtide]: https://numtide.com
 [Obsidian Systems]: https://obsidian.systems/jobs
 [Oxford Abstracts]: https://oxfordabstracts.com/company/careers/
 [Platonic Systems]: https://www.linkedin.com/company/platonic-systems/jobs/
+[Quadratic]: https://careers.quadratichq.com
+[Relex]: https://www.relexsolutions.com/careers/
+[Replit]: https://replit.com/site/careers
 [Rerun]: https://careers.rerun.io/
+[Routine]: https://base.routine.co/jobs
 [Scala Center]: https://www.scala-lang.org/jobs/
 [Scarf]: https://about.scarf.sh/careers
 [Serokell]: https://serokell.io/jobs
 [Spotify]: https://www.spotifyjobs.com/
+[Stack Builders]: https://www.stackbuilders.com/join-us/
 [Svix]: https://www.svix.com/careers/
 [Tarides]: https://tarides.com/careers/
-[Textql]: https://www.textql.com/careers
+[TextQL]: https://www.textql.com/careers
 [Tweag]: https://boards.greenhouse.io/tweag
 [Tweede Golf]: https://tweedegolf.nl/en/vacancies
 [Typeable]: https://typeable.io/careers
