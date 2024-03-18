@@ -117,10 +117,8 @@ Newsletters that include job postings:
 
 ### Job Boards
 
-- [Functional Jobs]
 - [Functional Works]
 
-[Functional Jobs]: https://functionaljobs.com/
 [Functional Works]: https://functional.works-hub.com/jobs/search
 
 
@@ -155,7 +153,6 @@ This is basically a merger of the following lists:
 
 Name (Link to Carreer Page) | HQ Location          | Languages
 ----------------------------|----------------------|----------------------------
-[47 Degrees]                | Spain                | Scala
 [Anduril]                   | USA, California      | Rust, Haskell, Nix
 [Astral]                    | USA                  | Rust, Python
 [Climatiq]                  | USA                  | Rust
@@ -177,7 +174,7 @@ Name (Link to Carreer Page) | HQ Location          | Languages
 [Quadratic]                 | USA, CO, Boulder     | Rust
 [Rerun]                     | USA                  | Rust
 [Routine]                   | Paris                | Ocaml
-[Scala Center]              | USA                  | Scala
+[Scala Center]              | Switzerland          | Scala
 [Serokell]                  | USA                  | Rust, Haskell, Nix
 [Spotify]                   | Sweden               | Scala
 [Svix]                      | USA                  | Rust
@@ -187,6 +184,7 @@ Name (Link to Carreer Page) | HQ Location          | Languages
 [Typst]                     | Germany, Berlin      | Rust, Typst
 [Valora]                    | Switzerland          | F#
 [VirtusLab]                 | Poland               | Scala
+[Xebia]                     | India                | Scala
 
 
 ### Forums
@@ -221,7 +219,6 @@ Newsletters that include job postings:
 
 <!-- Career page links -->
 
-[47 Degrees]: https://www.47deg.com/careers/
 [Anduril]: https://www.anduril.com/open-roles/
 [Arista]: https://www.arista.com/en/careers
 [Artificial]: https://artificial.io/careers/
@@ -250,7 +247,7 @@ Newsletters that include job postings:
 [Jane Street]: https://www.janestreet.com/join-jane-street/open-roles/?type=experienced-candidates&location=all-locations&department=technology
 [Juspay]: https://juspay.in/careers
 [Lightbend]: https://www.lightbend.com/company/careers
-[Lunatech]: https://lunatech.com/careers
+[Lunatech]: https://recruitment.lunatech.com
 [Mainmatter]: https://weworkremotely.com/company/mainmatter
 [Mercury Media]: https://www.mercurymediatechnology.com/de/karierre/
 [Mlabs]: https://apply.workable.com/mlabs/
@@ -266,7 +263,7 @@ Newsletters that include job postings:
 [Replit]: https://replit.com/site/careers
 [Rerun]: https://careers.rerun.io/
 [Routine]: https://base.routine.co/jobs
-[Scala Center]: https://www.scala-lang.org/jobs/
+[Scala Center]: https://scala.epfl.ch/jobs.html
 [Scarf]: https://about.scarf.sh/careers
 [Serokell]: https://serokell.io/jobs
 [Spotify]: https://www.spotifyjobs.com/
@@ -280,5 +277,6 @@ Newsletters that include job postings:
 [Typst]: https://typst.app/jobs/
 [Unison]: https://www.unison-lang.org/jobs/
 [Valora]: https://valora.digital
-[VirtusLab]: https://virtuslab.com/careers/
+[VirtusLab]: https://careers.virtuslab.com/
 [Well-Typed]: https://well-typed.com/blog/tags/jobs/
+[Xebia]: https://xebia.com/careers/
