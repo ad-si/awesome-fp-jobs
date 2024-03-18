@@ -70,6 +70,7 @@ Name (Link to Career Page) | HQ Location   | Languages
 [Dfinity]           | Switzerland, Zürich  | Haskell, Rust, Nix
 [Digitalasset]      | USA, New York        | Haskell
 [Feeld]             | UK                   | Haskell
+[Feram]             | Germany, Frankfurt   | Haskell, Elm, Rust, Nix
 [FPComplete]        | USA                  | Haskell, Rust, Nix
 [Galois]            | USA                  | Haskell, Rust
 [Generation Lambda] | Estonia, Tallinn     | Haskell
@@ -158,15 +159,18 @@ Name (Link to Carreer Page) | HQ Location          | Languages
 [Anduril]                   | USA, California      | Rust, Haskell, Nix
 [Astral]                    | USA                  | Rust, Python
 [Climatiq]                  | USA                  | Rust
+[Cloudflare]                | USA, San Francisco   | Rust
 [Determinate Systems]       | USA                  | Rust, Nix
 [Dfinity]                   | Switzerland, Zürich  | Rust, Haskell, Nix
 [EPFL]                      | Switzerland          | Scala
+[Flox]                      | USA                  | Rust, Nix
 [Fly.io]                    | USA                  | Rust
 [FPComplete]                | USA                  | Rust, Haskell, Nix
 [Hasura]                    | India, Bangalore     | Rust, Haskell
 [Jane Street]               | USA                  | OCaml
 [Lightbend]                 | USA                  | Scala
 [Lunatech]                  | Netherlands          | Scala
+[Mainmatter]                | Germany              | Rust
 [Mlabs]                     | UK                   | Rust, Haskell, Nix
 [Mozilla]                   | USA                  | Rust
 [Numtide]                   | Switzerland          | Rust, Nix
@@ -180,6 +184,7 @@ Name (Link to Carreer Page) | HQ Location          | Languages
 [Tarides]                   | USA                  | OCaml
 [Tweag]                     | USA                  | Rust, Haskell, Nix
 [Tweede Golf]               | Netherlands          | Rust
+[Typst]                     | Germany, Berlin      | Rust, Typst
 [Valora]                    | Switzerland          | F#
 [VirtusLab]                 | Poland               | Scala
 
@@ -214,6 +219,8 @@ Newsletters that include job postings:
 [Rust Jobs]: https://rustjobs.dev/
 
 
+<!-- Career page links -->
+
 [47 Degrees]: https://www.47deg.com/careers/
 [Anduril]: https://www.anduril.com/open-roles/
 [Arista]: https://www.arista.com/en/careers
@@ -224,11 +231,14 @@ Newsletters that include job postings:
 [Channable]: https://jobs.channable.com/
 [CircuitHub]: https://careers.circuithub.com/
 [Climatiq]: https://www.climatiq.io/about#jobs
+[Cloudflare]: https://www.cloudflare.com/en-ca/careers/
 [Determinate Systems]: https://determinate.systems/careers
 [Dfinity]: https://dfinity.org/about/#jobs
 [Digitalasset]: https://www.digitalasset.com/careers
 [EPFL]: https://www.epfl.ch/about/working/
 [Feeld]: https://apply.workable.com/feeldco/
+[Feram]: https://www.feram.io/jobs/
+[Flox]: https://flox.dev/careers
 [Fly.io]: https://fly.io/jobs/
 [FPComplete]: https://www.fpcomplete.com/jobs/
 [Galois]: https://galois.com/careers/
@@ -241,6 +251,7 @@ Newsletters that include job postings:
 [Juspay]: https://juspay.in/careers
 [Lightbend]: https://www.lightbend.com/company/careers
 [Lunatech]: https://lunatech.com/careers
+[Mainmatter]: https://weworkremotely.com/company/mainmatter
 [Mercury Media]: https://www.mercurymediatechnology.com/de/karierre/
 [Mlabs]: https://apply.workable.com/mlabs/
 [Mozilla]: https://www.mozilla.org/en-US/careers/listings/
@@ -266,6 +277,7 @@ Newsletters that include job postings:
 [Tweag]: https://boards.greenhouse.io/tweag
 [Tweede Golf]: https://tweedegolf.nl/en/vacancies
 [Typeable]: https://typeable.io/careers
+[Typst]: https://typst.app/jobs/
 [Unison]: https://www.unison-lang.org/jobs/
 [Valora]: https://valora.digital
 [VirtusLab]: https://virtuslab.com/careers/
