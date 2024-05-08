@@ -36,12 +36,12 @@ This is basically a merger of the following lists:
 - [github.com/jah2488/elm-companies][elm-companies]
 - [github.com/erkmos/haskell-companies][haskell-companies]
 - [github.com/ajnsit/purescript-companies][purescript-companies]
-- [github.com/Airsequel/nix-companies][nix-companies]
+- [github.com/ad-si/nix-companies][nix-companies]
 
 [elm-companies]: https://github.com/jah2488/elm-companies
 [haskell-companies]: https://github.com/erkmos/haskell-companies
 [purescript-companies]: https://github.com/ajnsit/purescript-companies
-[nix-companies]: https://github.com/Airsequel/nix-companies
+[nix-companies]: https://github.com/ad-si/nix-companies
 
 Following programming languages should be included.
 Let me know if there are any companies hiring for these languages.
@@ -102,7 +102,7 @@ Name (Link to Career Page) | HQ Location   | Languages
 
 Forums that include job postings:
 
-- [Elm Slack](https://elmlang.slack.com/archives/C0LUAGWRK)
+- [Elm Slack](https://elmlang.slack.com) - `#jobs` and `#jobs-fp` channels.
 - [Haskell Forum](https://discourse.haskell.org/c/jobs/9)
 - [PureScript Forum](https://discourse.purescript.org/c/jobs/10)
 
@@ -171,6 +171,7 @@ Name (Link to Carreer Page) | HQ Location          | Languages
 [Mlabs]                     | UK                   | Rust, Haskell, Nix
 [Mozilla]                   | USA                  | Rust
 [Numtide]                   | Switzerland          | Rust, Nix
+[Oxide]                     | USA                  | Rust
 [Quadratic]                 | USA, CO, Boulder     | Rust
 [Rerun]                     | USA                  | Rust
 [Routine]                   | Paris                | Ocaml
@@ -185,6 +186,7 @@ Name (Link to Carreer Page) | HQ Location          | Languages
 [Valora]                    | Switzerland          | F#
 [VirtusLab]                 | Poland               | Scala
 [Xebia]                     | India                | Scala
+[Zoo]                       | USA                  | Rust, TypeScript, Python
 
 
 ### Forums
@@ -213,7 +215,7 @@ Newsletters that include job postings:
 - [Rust Jobs]
 
 [OCaml Jobs]: https://ocaml.org/jobs
-[Rust - Who's Hiring?]: https://www.reddit.com/r/rust/
+[Rust - Who's Hiring?]: https://www.reddit.com/r/rust/?rdt=0
 [Rust Jobs]: https://rustjobs.dev/
 
 
@@ -229,7 +231,7 @@ Newsletters that include job postings:
 [CircuitHub]: https://careers.circuithub.com/
 [Climatiq]: https://www.climatiq.io/about#jobs
 [Cloudflare]: https://www.cloudflare.com/en-ca/careers/
-[Determinate Systems]: https://determinate.systems/careers
+[Determinate Systems]: https://determinate.systems/careers/
 [Dfinity]: https://dfinity.org/about/#jobs
 [Digitalasset]: https://www.digitalasset.com/careers
 [EPFL]: https://www.epfl.ch/about/working/
@@ -257,6 +259,7 @@ Newsletters that include job postings:
 [Numtide]: https://numtide.com
 [Obsidian Systems]: https://obsidian.systems/jobs
 [Oxford Abstracts]: https://oxfordabstracts.com/company/careers/
+[Oxide]: https://oxide.computer/careers/
 [Platonic Systems]: https://www.linkedin.com/company/platonic-systems/jobs/
 [Quadratic]: https://careers.quadratichq.com
 [Relex]: https://www.relexsolutions.com/careers/
@@ -266,7 +269,7 @@ Newsletters that include job postings:
 [Scala Center]: https://scala.epfl.ch/jobs.html
 [Scarf]: https://about.scarf.sh/careers
 [Serokell]: https://serokell.io/jobs
-[Spotify]: https://www.spotifyjobs.com/
+[Spotify]: https://www.lifeatspotify.com/jobs
 [Stack Builders]: https://www.stackbuilders.com/join-us/
 [Svix]: https://www.svix.com/careers/
 [Tarides]: https://tarides.com/careers/
@@ -276,7 +279,8 @@ Newsletters that include job postings:
 [Typeable]: https://typeable.io/careers
 [Typst]: https://typst.app/jobs/
 [Unison]: https://www.unison-lang.org/jobs/
-[Valora]: https://valora.digital
+[Valora]: https://en.valora.career/
 [VirtusLab]: https://careers.virtuslab.com/
 [Well-Typed]: https://well-typed.com/blog/tags/jobs/
 [Xebia]: https://xebia.com/careers/
+[Zoo]: https://zoo.dev/careers
