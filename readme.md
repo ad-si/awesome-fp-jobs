@@ -163,6 +163,7 @@ Name (Link to Carreer Page) | HQ Location          | Languages
 [Flox]                      | USA                  | Rust, Nix
 [Fly.io]                    | USA                  | Rust
 [FPComplete]                | USA                  | Rust, Haskell, Nix
+[Groq]                      | USA, California      | Haskell
 [Hasura]                    | India, Bangalore     | Rust, Haskell
 [Jane Street]               | USA                  | OCaml
 [Lightbend]                 | USA                  | Scala
