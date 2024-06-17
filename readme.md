@@ -75,16 +75,17 @@ Name (Link to Career Page) | HQ Location   | Languages
 [Galois]            | USA                  | Haskell, Rust
 [Generation Lambda] | Estonia, Tallinn     | Haskell
 [Hasura]            | India, Bangalore     | Haskell, Rust
-[Hercules CI]       | Netherlands          | Nix, Haskell
 [Heilmann Software] | Germany              | Haskell, Nix
+[Hercules CI]       | Netherlands          | Nix, Haskell
 [IO Global]         | USA, Wyoming         | Haskell, Rust, Nix
 [Juspay]            | India                | Haskell, Purescript
 [Mercury Media]     | Germany              | Elm
+[Mercury]           | USA, California      | Haskell, Nix
 [Mlabs]             | UK                   | Haskell, Rust, Nix
 [Nectry]            | USA                  | Ur
 [Nix.How]           | USA                  | Nix
 [Obsidian Systems]  | USA, New York        | Haskell, Nix
-[Oxford Abstracts]  | UK                   | Haskell
+[Oxford Abstracts]  | UK                   | PureScript
 [Platonic Systems]  | USA                  | Haskell, Elm, PureScript, Nix
 [Relex]             | Finland, Helsinki    | Haskell, Elixir, Scala
 [Replit]            | USA, California      | Nix
@@ -253,6 +254,7 @@ Newsletters that include job postings:
 [Lunatech]: https://recruitment.lunatech.com
 [Mainmatter]: https://weworkremotely.com/company/mainmatter
 [Mercury Media]: https://www.mercurymediatechnology.com/de/karierre/
+[Mercury]: https://mercury.com
 [Mlabs]: https://apply.workable.com/mlabs/
 [Mozilla]: https://www.mozilla.org/en-US/careers/listings/
 [Nectry]: https://nectry.com/
