@@ -170,6 +170,7 @@ Name (Link to Carreer Page) | HQ Location          | Languages
 [Hasura]                    | India, Bangalore     | Rust, Haskell
 [Jane Street]               | USA                  | OCaml
 [Akka]                      | USA                  | Scala
+[LexiFi]                    | France               | OCaml
 [Lunatech]                  | Netherlands          | Scala
 [Mainmatter]                | Germany              | Rust
 [Mlabs]                     | UK                   | Rust, Haskell, Nix
@@ -254,6 +255,7 @@ Newsletters that include job postings:
 [Jane Street]: https://www.janestreet.com/join-jane-street/open-roles/?type=experienced-candidates&location=all-locations&department=technology
 [Juspay]: https://juspay.io/careers
 [Akka]: https://www.linkedin.com/company/akka-io/jobs/
+[LexiFi]: https://www.lexifi.com/careers/
 [Lunatech]: https://recruitment.lunatech.com
 [Mainmatter]: https://weworkremotely.com/company/mainmatter
 [Mercury Media]: https://www.mercurymediatechnology.com/de/karierre/
