@@ -63,6 +63,7 @@ Name (Link to Career Page) | HQ Location   | Languages
 [Anduril]           | USA, California      | Haskell, Rust, Nix
 [Arista]            | USA                  | Haskell, Nix
 [Artificial]        | UK                   | Haskell, Nix
+[Avetta]            | USA                  | Elm, Scala
 [ByteAlly]          | India, Tamil Nadu    | Haskell
 [CarbonCloud]       | Sweden, Göteborg     | Haskell, Elm
 [Channable]         | Netherlands, Utrecht | Haskell
@@ -78,7 +79,7 @@ Name (Link to Career Page) | HQ Location   | Languages
 [Heilmann Software] | Germany              | Haskell, Nix
 [Hercules CI]       | Netherlands          | Nix, Haskell
 [IO Global]         | USA, Wyoming         | Haskell, Rust, Nix
-[Juspay]            | India                | Haskell, Purescript
+[Juspay]            | India                | Haskell, PureScript
 [Mercury Media]     | Germany              | Elm
 [Mercury]           | USA, California      | Haskell, Nix
 [Mlabs]             | UK                   | Haskell, Rust, Nix
@@ -227,6 +228,7 @@ Newsletters that include job postings:
 [Arista]: https://www.arista.com/en/careers
 [Artificial]: https://artificial.io/careers/
 [Astral]: https://astral.sh/about
+[Avetta]: https://www.avetta.com/careers#openings
 [ByteAlly]: https://byteally.zohorecruit.com/careers
 [CarbonCloud]: https://careers.carboncloud.com/#jobs
 [Channable]: https://jobs.channable.com/
