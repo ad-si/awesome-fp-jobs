@@ -29,7 +29,7 @@ Languages:
 - [Elm](https://elm-lang.org/)
 - [PureScript](https://www.purescript.org/)
 - [Ur](http://impredicative.com/ur/)
-- [Nix Language](https://nixos.org/manual/nix/stable/language/index.html)
+- [Nix Language](https://nix.dev/manual/nix/stable/language/)
 
 This is basically a merger of the following lists:
 
@@ -168,7 +168,7 @@ Name (Link to Carreer Page) | HQ Location          | Languages
 [Groq]                      | USA, California      | Haskell
 [Hasura]                    | India, Bangalore     | Rust, Haskell
 [Jane Street]               | USA                  | OCaml
-[Lightbend]                 | USA                  | Scala
+[Akka]                      | USA                  | Scala
 [Lunatech]                  | Netherlands          | Scala
 [Mainmatter]                | Germany              | Rust
 [Mlabs]                     | UK                   | Rust, Haskell, Nix
@@ -211,7 +211,6 @@ Newsletters that include job postings:
 
 ### Job Boards
 
-- [Functional Jobs]
 - [Functional Works]
 - [OCaml Jobs]
 - [Rust - Who's Hiring?]
@@ -241,7 +240,7 @@ Newsletters that include job postings:
 [EPFL]: https://www.epfl.ch/about/working/
 [Feeld]: https://apply.workable.com/feeldco/
 [Feram]: https://www.feram.io/jobs/
-[Flox]: https://flox.dev/careers
+[Flox]: https://flox.dev/careers/
 [Fly.io]: https://fly.io/jobs/
 [FPComplete]: https://www.fpcomplete.com/jobs/
 [Galois]: https://galois.com/careers/
@@ -251,8 +250,8 @@ Newsletters that include job postings:
 [Hercules CI]: https://hercules-ci.com/
 [IO Global]: https://apply.workable.com/io-global/
 [Jane Street]: https://www.janestreet.com/join-jane-street/open-roles/?type=experienced-candidates&location=all-locations&department=technology
-[Juspay]: https://juspay.in/careers
-[Lightbend]: https://www.lightbend.com/company/careers
+[Juspay]: https://juspay.io/careers
+[Akka]: https://www.linkedin.com/company/akka-io/jobs/
 [Lunatech]: https://recruitment.lunatech.com
 [Mainmatter]: https://weworkremotely.com/company/mainmatter
 [Mercury Media]: https://www.mercurymediatechnology.com/de/karierre/
@@ -263,28 +262,28 @@ Newsletters that include job postings:
 [Nix.How]: https://nix.how/
 [Numtide]: https://numtide.com
 [Obsidian Systems]: https://obsidian.systems/jobs
-[Oxford Abstracts]: https://oxfordabstracts.com/company/careers/
+[Oxford Abstracts]: https://oxfordabstracts.com/careers/
 [Oxide]: https://oxide.computer/careers/
 [Platonic Systems]: https://www.linkedin.com/company/platonic-systems/jobs/
 [Quadratic]: https://careers.quadratichq.com
 [Relex]: https://www.relexsolutions.com/careers/
-[Replit]: https://replit.com/site/careers
+[Replit]: https://replit.com/careers
 [Rerun]: https://careers.rerun.io/
 [Routine]: https://base.routine.co/jobs
 [Scala Center]: https://scala.epfl.ch/jobs.html
 [Scarf]: https://about.scarf.sh/careers
 [Serokell]: https://serokell.io/jobs
 [Spotify]: https://www.lifeatspotify.com/jobs
-[Stack Builders]: https://www.stackbuilders.com/join-us/
+[Stack Builders]: https://www.stackbuilders.com/careers/
 [Svix]: https://www.svix.com/careers/
 [Tarides]: https://tarides.com/careers/
 [TextQL]: https://www.textql.com/careers
-[Tweag]: https://boards.greenhouse.io/tweag
+[Tweag]: https://job-boards.greenhouse.io/tweag
 [Tweede Golf]: https://tweedegolf.nl/en/vacancies
 [Typeable]: https://typeable.io/careers
 [Typst]: https://typst.app/jobs/
 [Unison]: https://www.unison-lang.org/jobs/
-[Valora]: https://en.valora.career/
+[Valora]: https://career.valora.com/en/
 [VirtusLab]: https://careers.virtuslab.com/
 [Well-Typed]: https://well-typed.com/blog/tags/jobs/
 [Xebia]: https://xebia.com/careers/
