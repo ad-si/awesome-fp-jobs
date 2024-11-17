@@ -155,6 +155,7 @@ This is basically a merger of the following lists:
 
 Name (Link to Carreer Page) | HQ Location          | Languages
 ----------------------------|----------------------|----------------------------
+[Ahrefs]                    | Singapore, Remote    | OCaml
 [Anduril]                   | USA, California      | Rust, Haskell, Nix
 [Astral]                    | USA                  | Rust, Python
 [Climatiq]                  | USA                  | Rust
@@ -223,6 +224,7 @@ Newsletters that include job postings:
 
 <!-- Career page links -->
 
+[Ahrefs]: https://ahrefs.com/jobs
 [Anduril]: https://www.anduril.com/open-roles/
 [Arista]: https://www.arista.com/en/careers
 [Artificial]: https://artificial.io/careers/
