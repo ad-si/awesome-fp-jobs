@@ -49,7 +49,6 @@ Let me know if there are any companies hiring for these languages.
 - [Agda](https://wiki.portal.chalmers.se/agda/pmwiki.php)
 - [Coq](https://coq.inria.fr/)
 - [Futhark](https://futhark-lang.org/)
-- [Gleam](https://gleam.run/)
 - [Idris](https://www.idris-lang.org/)
 - [Lean](https://lean-lang.org/)
 - [Roc](https://www.roc-lang.org/)
@@ -130,6 +129,7 @@ Languages:
 
 - [Elixir](https://elixir-lang.org/)
 - [F#](https://fsharp.org/)
+- [Gleam](https://gleam.run/)
 - [OCaml](https://ocaml.org/)
 - [ReasonML](https://reasonml.github.io/)
 - [ReScript](https://rescript-lang.org/)
