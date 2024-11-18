@@ -78,7 +78,7 @@ Name (Link to Career Page) | HQ Location   | Languages
 [Heilmann Software] | Germany              | Haskell, Nix
 [Hercules CI]       | Netherlands          | Nix, Haskell
 [IO Global]         | USA, Wyoming         | Haskell, Rust, Nix
-[Juspay]            | India                | Haskell, PureScript
+[Juspay]            | India                | Haskell, Rust, PureScript, Nix
 [Mercury Media]     | Germany              | Elm
 [Mercury]           | USA, California      | Haskell, Nix
 [Mlabs]             | UK                   | Haskell, Rust, Nix
