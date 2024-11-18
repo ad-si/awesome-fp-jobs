@@ -184,7 +184,7 @@ Name (Link to Carreer Page) | HQ Location          | Languages
 [Serokell]                  | USA                  | Rust, Haskell, Nix
 [Spotify]                   | Sweden               | Scala
 [Svix]                      | USA                  | Rust
-[Tarides]                   | USA                  | OCaml
+[Tarides]                   | France, UK, India    | OCaml
 [Tweag]                     | USA                  | Rust, Haskell, Nix
 [Tweede Golf]               | Netherlands          | Rust
 [Typst]                     | Germany, Berlin      | Rust, Typst
