@@ -248,6 +248,7 @@ Newsletters that include job postings:
 [FPComplete]: https://www.fpcomplete.com/jobs/
 [Galois]: https://galois.com/careers/
 [Generation Lambda]: https://www.linkedin.com/company/genlambda/jobs/
+[Groq]: https://groq.com/careers/
 [Hasura]: https://hasura.io/careers/?departmentName=Engineering
 [Heilmann Software]: https://www.heilmannsoftware.com/de/jobs/
 [Hercules CI]: https://hercules-ci.com/
