@@ -66,6 +66,7 @@ Name (Link to Career Page) | HQ Location   | Languages
 [ByteAlly]          | India, Tamil Nadu    | Haskell
 [CarbonCloud]       | Sweden, Göteborg     | Haskell, Elm
 [Channable]         | Netherlands, Utrecht | Haskell
+[Chordify]          | Netherlands, Utrecht | Haskell
 [CircuitHub]        | UK                   | Haskell, Elm, Nix
 [Dfinity]           | Switzerland, Zürich  | Haskell, Rust, Nix
 [Digitalasset]      | USA, New York        | Haskell
@@ -234,6 +235,7 @@ Newsletters that include job postings:
 [ByteAlly]: https://byteally.zohorecruit.com/careers
 [CarbonCloud]: https://careers.carboncloud.com/#jobs
 [Channable]: https://jobs.channable.com/
+[Chordify]: https://jobs.chordify.net/
 [CircuitHub]: https://careers.circuithub.com/
 [Climatiq]: https://www.climatiq.io/about#jobs
 [Cloudflare]: https://www.cloudflare.com/en-ca/careers/
