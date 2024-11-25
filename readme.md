@@ -149,7 +149,7 @@ This is basically a merger of the following lists:
 
 ### Companies
 
-| Name (Link to Carreer Page) | HQ Location         | Languages                |
+| Name (Link to Careers Page) | HQ Location         | Languages                |
 | --------------------------- | ------------------- | ------------------------ |
 | [Ahrefs]                    | Singapore, Remote   | OCaml                    |
 | [Anduril]                   | USA, California     | Rust, Haskell, Nix       |
