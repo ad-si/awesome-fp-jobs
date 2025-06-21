@@ -54,51 +54,50 @@ Let me know if there are any companies hiring for these languages.
 - [Roc](https://www.roc-lang.org/)
 - [Unison](https://www.unison-lang.org)
 
-
 ### Companies
 
-Name (Link to Career Page) | HQ Location   | Languages
----------------------------|---------------|------------------------------------
-[Anduril]           | USA, California      | Haskell, Rust, Nix
-[Arista]            | USA                  | Haskell, Nix
-[Artificial]        | UK                   | Haskell, Nix
-[Avetta]            | USA                  | Elm, Scala
-[ByteAlly]          | India, Tamil Nadu    | Haskell
-[CarbonCloud]       | Sweden, Göteborg     | Haskell, Elm
-[Channable]         | Netherlands, Utrecht | Haskell
-[Chordify]          | Netherlands, Utrecht | Haskell
-[CircuitHub]        | UK                   | Haskell, Elm, Nix
-[Dfinity]           | Switzerland, Zürich  | Haskell, Rust, Nix
-[Digitalasset]      | USA, New York        | Haskell
-[Feeld]             | UK                   | Haskell
-[Feram]             | Germany, Frankfurt   | Haskell, Elm, Rust, Nix
-[FPComplete]        | USA                  | Haskell, Rust, Nix
-[Galois]            | USA                  | Haskell, Rust
-[Generation Lambda] | Estonia, Tallinn     | Haskell
-[Hasura]            | India, Bangalore     | Haskell, Rust
-[Heilmann Software] | Germany              | Haskell, Nix
-[Hercules CI]       | Netherlands          | Nix, Haskell
-[IO Global]         | USA, Wyoming         | Haskell, Rust, Nix
-[Juspay]            | India                | Haskell, Rust, PureScript, Nix
-[Mercury Media]     | Germany              | Elm
-[Mercury]           | USA, California      | Haskell, Nix
-[Mlabs]             | UK                   | Haskell, Rust, Nix
-[Nectry]            | USA                  | Ur
-[Nix.How]           | USA                  | Nix
-[Obsidian Systems]  | USA, New York        | Haskell, Nix
-[Oxford Abstracts]  | UK                   | PureScript
-[Platonic Systems]  | USA                  | Haskell, Elm, PureScript, Nix
-[Relex]             | Finland, Helsinki    | Haskell, Elixir, Scala
-[Replit]            | USA, California      | Nix
-[Scarf]             | USA                  | Haskell, Nix
-[Serokell]          | USA                  | Haskell, Rust, Nix
-[Stack Builders]    | USA                  | Haskell, Ruby, Nix
-[TextQL]            | USA                  | Haskell, Nix
-[Tweag]             | USA                  | Haskell, Rust, Nix
-[Typeable]          | USA                  | Haskell, Nix
-[Unison]            | USA                  | Haskell, Unison
-[Well-Typed]        | USA                  | Haskell, Nix
-
+| Name (Link to Career Page) | HQ Location          | Languages                      |
+| -------------------------- | -------------------- | ------------------------------ |
+| [Anduril]                  | USA, California      | Haskell, Rust, Nix             |
+| [Arista]                   | USA                  | Haskell, Nix                   |
+| [Artificial]               | UK                   | Haskell, Nix                   |
+| [Avetta]                   | USA                  | Elm, Scala                     |
+| [Bellroy]                  | Australia            | Haskell, Elm, Nix              |
+| [ByteAlly]                 | India, Tamil Nadu    | Haskell                        |
+| [CarbonCloud]              | Sweden, Göteborg     | Haskell, Elm                   |
+| [Channable]                | Netherlands, Utrecht | Haskell                        |
+| [Chordify]                 | Netherlands, Utrecht | Haskell                        |
+| [CircuitHub]               | UK                   | Haskell, Elm, Nix              |
+| [Dfinity]                  | Switzerland, Zürich  | Haskell, Rust, Nix             |
+| [Digitalasset]             | USA, New York        | Haskell                        |
+| [Feeld]                    | UK                   | Haskell                        |
+| [Feram]                    | Germany, Frankfurt   | Haskell, Elm, Rust, Nix        |
+| [FPComplete]               | USA                  | Haskell, Rust, Nix             |
+| [Galois]                   | USA                  | Haskell, Rust                  |
+| [Generation Lambda]        | Estonia, Tallinn     | Haskell                        |
+| [Hasura]                   | India, Bangalore     | Haskell, Rust                  |
+| [Heilmann Software]        | Germany              | Haskell, Nix                   |
+| [Hercules CI]              | Netherlands          | Nix, Haskell                   |
+| [IO Global]                | USA, Wyoming         | Haskell, Rust, Nix             |
+| [Juspay]                   | India                | Haskell, Rust, PureScript, Nix |
+| [Mercury Media]            | Germany              | Elm                            |
+| [Mercury]                  | USA, California      | Haskell, Nix                   |
+| [Mlabs]                    | UK                   | Haskell, Rust, Nix             |
+| [Nectry]                   | USA                  | Ur                             |
+| [Nix.How]                  | USA                  | Nix                            |
+| [Obsidian Systems]         | USA, New York        | Haskell, Nix                   |
+| [Oxford Abstracts]         | UK                   | PureScript                     |
+| [Platonic Systems]         | USA                  | Haskell, Elm, PureScript, Nix  |
+| [Relex]                    | Finland, Helsinki    | Haskell, Elixir, Scala         |
+| [Replit]                   | USA, California      | Nix                            |
+| [Scarf]                    | USA                  | Haskell, Nix                   |
+| [Serokell]                 | USA                  | Haskell, Rust, Nix             |
+| [Stack Builders]           | USA                  | Haskell, Ruby, Nix             |
+| [TextQL]                   | USA                  | Haskell, Nix                   |
+| [Tweag]                    | USA                  | Haskell, Rust, Nix             |
+| [Typeable]                 | USA                  | Haskell, Nix                   |
+| [Unison]                   | USA                  | Haskell, Unison                |
+| [Well-Typed]               | USA                  | Haskell, Nix                   |
 
 ### Forums
 
@@ -108,7 +107,6 @@ Forums that include job postings:
 - [Haskell Forum](https://discourse.haskell.org/c/jobs/9)
 - [PureScript Forum](https://discourse.purescript.org/c/jobs/10)
 
-
 ### Newsletters
 
 Newsletters that include job postings:
@@ -116,13 +114,11 @@ Newsletters that include job postings:
 - [Elm Weekly](https://www.elmweekly.nl/archive)
 - [Haskell Weekly](https://haskellweekly.news/newsletter.html)
 
-
 ### Job Boards
 
 - [Functional Works]
 
 [Functional Works]: https://functional.works-hub.com/jobs/search
-
 
 ## Impure / Multi-Paradigm
 
@@ -151,49 +147,47 @@ This is basically a merger of the following lists:
 [FPC]: https://github.com/elamje/FunctionalProgrammingCompanies
 [rust-companies]: https://github.com/omarabid/rust-companies
 
-
 ### Companies
 
-Name (Link to Carreer Page) | HQ Location          | Languages
-----------------------------|----------------------|----------------------------
-[Ahrefs]                    | Singapore, Remote    | OCaml
-[Anduril]                   | USA, California      | Rust, Haskell, Nix
-[Astral]                    | USA                  | Rust, Python
-[Climatiq]                  | USA                  | Rust
-[Cloudflare]                | USA, San Francisco   | Rust
-[Determinate Systems]       | USA                  | Rust, Nix
-[Dfinity]                   | Switzerland, Zürich  | Rust, Haskell, Nix
-[EPFL]                      | Switzerland          | Scala
-[Flox]                      | USA                  | Rust, Nix
-[Fly.io]                    | USA                  | Rust
-[FPComplete]                | USA                  | Rust, Haskell, Nix
-[Groq]                      | USA, California      | Haskell
-[Hasura]                    | India, Bangalore     | Rust, Haskell
-[Jane Street]               | USA                  | OCaml
-[Akka]                      | USA                  | Scala
-[LexiFi]                    | France               | OCaml
-[Lunatech]                  | Netherlands          | Scala
-[Mainmatter]                | Germany              | Rust
-[Mlabs]                     | UK                   | Rust, Haskell, Nix
-[Mozilla]                   | USA                  | Rust
-[Numtide]                   | Switzerland          | Rust, Nix
-[Oxide]                     | USA                  | Rust
-[Quadratic]                 | USA, CO, Boulder     | Rust
-[Rerun]                     | USA                  | Rust
-[Routine]                   | Paris                | Ocaml
-[Scala Center]              | Switzerland          | Scala
-[Serokell]                  | USA                  | Rust, Haskell, Nix
-[Spotify]                   | Sweden               | Scala
-[Svix]                      | USA                  | Rust
-[Tarides]                   | France, UK, India    | OCaml
-[Tweag]                     | USA                  | Rust, Haskell, Nix
-[Tweede Golf]               | Netherlands          | Rust
-[Typst]                     | Germany, Berlin      | Rust, Typst
-[Valora]                    | Switzerland          | F#
-[VirtusLab]                 | Poland               | Scala
-[Xebia]                     | India                | Scala
-[Zoo]                       | USA                  | Rust, TypeScript, Python
-
+| Name (Link to Careers Page) | HQ Location         | Languages                |
+| --------------------------- | ------------------- | ------------------------ |
+| [Ahrefs]                    | Singapore, Remote   | OCaml                    |
+| [Anduril]                   | USA, California     | Rust, Haskell, Nix       |
+| [Astral]                    | USA                 | Rust, Python             |
+| [Climatiq]                  | USA                 | Rust                     |
+| [Cloudflare]                | USA, San Francisco  | Rust                     |
+| [Determinate Systems]       | USA                 | Rust, Nix                |
+| [Dfinity]                   | Switzerland, Zürich | Rust, Haskell, Nix       |
+| [EPFL]                      | Switzerland         | Scala                    |
+| [Flox]                      | USA                 | Rust, Nix                |
+| [Fly.io]                    | USA                 | Rust                     |
+| [FPComplete]                | USA                 | Rust, Haskell, Nix       |
+| [Groq]                      | USA, California     | Haskell                  |
+| [Hasura]                    | India, Bangalore    | Rust, Haskell            |
+| [Jane Street]               | USA                 | OCaml                    |
+| [Akka]                      | USA                 | Scala                    |
+| [LexiFi]                    | France              | OCaml                    |
+| [Lunatech]                  | Netherlands         | Scala                    |
+| [Mainmatter]                | Germany             | Rust                     |
+| [Mlabs]                     | UK                  | Rust, Haskell, Nix       |
+| [Mozilla]                   | USA                 | Rust                     |
+| [Numtide]                   | Switzerland         | Rust, Nix                |
+| [Oxide]                     | USA                 | Rust                     |
+| [Quadratic]                 | USA, CO, Boulder    | Rust                     |
+| [Rerun]                     | USA                 | Rust                     |
+| [Routine]                   | Paris               | Ocaml                    |
+| [Scala Center]              | Switzerland         | Scala                    |
+| [Serokell]                  | USA                 | Rust, Haskell, Nix       |
+| [Spotify]                   | Sweden              | Scala                    |
+| [Svix]                      | USA                 | Rust                     |
+| [Tarides]                   | France, UK, India   | OCaml                    |
+| [Tweag]                     | USA                 | Rust, Haskell, Nix       |
+| [Tweede Golf]               | Netherlands         | Rust                     |
+| [Typst]                     | Germany, Berlin     | Rust, Typst              |
+| [Valora]                    | Switzerland         | F#                       |
+| [VirtusLab]                 | Poland              | Scala                    |
+| [Xebia]                     | India               | Scala                    |
+| [Zoo]                       | USA                 | Rust, TypeScript, Python |
 
 ### Forums
 
@@ -204,13 +198,11 @@ Forums that include job postings:
 - [ReScript Forum](https://forum.rescript-lang.org/c/jobs/5)
 - [OCaml Forum](https://discuss.ocaml.org/c/community/jobs/14)
 
-
 ### Newsletters
 
 Newsletters that include job postings:
 
 - [This Week in Rust](https://this-week-in-rust.org/)
-
 
 ### Job Boards
 
@@ -223,7 +215,6 @@ Newsletters that include job postings:
 [Rust - Who's Hiring?]: https://www.reddit.com/r/rust/?rdt=0
 [Rust Jobs]: https://rustjobs.dev/
 
-
 <!-- Career page links -->
 
 [Ahrefs]: https://ahrefs.com/jobs
@@ -232,6 +223,7 @@ Newsletters that include job postings:
 [Artificial]: https://artificial.io/careers/
 [Astral]: https://astral.sh/about
 [Avetta]: https://www.avetta.com/careers#openings
+[Bellroy]: https://bellroy.com/careers
 [ByteAlly]: https://byteally.zohorecruit.com/careers
 [CarbonCloud]: https://careers.carboncloud.com/#jobs
 [Channable]: https://jobs.channable.com/
