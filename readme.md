@@ -63,6 +63,7 @@ Name (Link to Career Page) | HQ Location   | Languages
 [Arista]            | USA                  | Haskell, Nix
 [Artificial]        | UK                   | Haskell, Nix
 [Avetta]            | USA                  | Elm, Scala
+[Bellroy]           | Australia            | Haskell, Elm, Nix
 [ByteAlly]          | India, Tamil Nadu    | Haskell
 [CarbonCloud]       | Sweden, Göteborg     | Haskell, Elm
 [Channable]         | Netherlands, Utrecht | Haskell
@@ -232,6 +233,7 @@ Newsletters that include job postings:
 [Artificial]: https://artificial.io/careers/
 [Astral]: https://astral.sh/about
 [Avetta]: https://www.avetta.com/careers#openings
+[Bellroy]: https://bellroy.com/careers
 [ByteAlly]: https://byteally.zohorecruit.com/careers
 [CarbonCloud]: https://careers.carboncloud.com/#jobs
 [Channable]: https://jobs.channable.com/
